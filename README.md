@@ -1,5 +1,5 @@
 
-# IPyWidgets Issue in Jupyter Notebook
+# IPyWidgets Disabled in Jupyter Notebooks
 
 See the problem in binder:
 
