@@ -3,5 +3,4 @@
 
 See the problem in binder:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/tmp-notebook/master)/master?filepath=notebook.ipynb)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/tmp-notebook/master?filepath=notebook.ipynb)
