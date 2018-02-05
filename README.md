@@ -1,7 +1,7 @@
 
 # IPyWidgets Issue in Jupyter Notebook
 
-See the issue in binder:
+See the problem in binder:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/tmp-notebook/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/tmp-notebook/master)/master?filepath=notebook.ipynb)
 
